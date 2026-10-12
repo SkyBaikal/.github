@@ -24,16 +24,39 @@ SkyBaikal 是一个开放的创作型组织。我们相信：
 
 ---
 
-### ✨ Featured Projects
+### 🧪 创意孵化器
 
-<!-- 把 repo= 后面的名字换成组织下真实的仓库名，有新项目就加一行 -->
+*项目数：0 · 想法数：∞ —— 我们在认真地想，想到就做。*
 
-<div align="center">
+下面是正在孵化的点子，欢迎认领、吐槽、补充。有一个新想法？直接去 **Discussions** 开一帖！
 
-[![Project One](https://github-readme-stats.vercel.app/api/pin/?username=SkyBaikal&repo=project-one&theme=tokyonight&hide_border=true)](https://github.com/SkyBaikal/project-one)
-[![Project Two](https://github-readme-stats.vercel.app/api/pin/?username=SkyBaikal&repo=project-two&theme=tokyonight&hide_border=true)](https://github.com/SkyBaikal/project-two)
+- [ ] 🤖 贝加尔湖冷知识 Bot —— 每天一条，冷到结冰的那种
+- [ ] 📸 星空摄影参数计算器 —— 输入地点日期，给出银河拍摄参数
+- [ ] ✅ 极简习惯打卡 CLI —— 一个命令，一天不落
+- [ ] 🎨 贡献墙像素画生成器 —— 把 GitHub 格子变成你的画布
+- [ ] 🗺️ 旅行足迹地图 —— 标记去过的地方，生成星空风海报
+- [ ] 💡 你的想法？—— *这个位置等你来填*
 
-</div>
+<!--
+认领方式：把 [ ] 改成 [x] 并在后面 @ 你的用户名，
+或者直接开 Discussion 聊聊，我们一起把它变成仓库。
+-->
+
+---
+
+### 🗺️ 路线图
+
+```
+现在        🌱 攒想法、搭架子
+  │
+  ├─► 第一个小项目破土动工
+  │
+  ├─► 第 10 个仓库 🎉
+  │
+  └─► 星辰大海 🌌
+```
+
+*不设 deadline，好玩优先。*
 
 ---
 
